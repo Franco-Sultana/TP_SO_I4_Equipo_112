@@ -1,0 +1,19 @@
+Bazan Vaquera, Nicolas J.A
+Sultana Franco
+Ormeño Diego
+
+a)Azul
+b)Amarillo//volver a hacer el merge
+c)Azul
+d)El de Beta
+e)Beta y Gamma no pudieron hacer el push.
+f)Beta y gamma, no pueden hacer el push porque hay cambios que no tenemos localmente
+justo despues del push de Alfa.
+g)Una de las soluciones, seria, que por cada push, el proximo que intente pushear
+actualice su repositorio local a la ultima version.
+h)Al utilizar push -f (f de forzar un comando), como indicaria la logica, cuando forzamos
+el push, se sobreescriben los cambios con el último que haya ejecutado el comando. Es decir,
+quedan los cambios de Gamma.
+i)La misma que en la G. Una de las soluciones, seria que por cada push, se obtenga primero
+la ultima version del repositorio antes de pushear, asi, para agregar cambios en lugar
+de sobreeescribirlos.
